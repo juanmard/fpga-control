@@ -10,7 +10,7 @@ Se parte del trabajo de _Democrito_ (ver este [hilo](https://groups.google.com/d
 
 Para ello seguiremos la siguiente _hoja de ruta_ que se compone de los siguientes hitos:
   
- 1. Primero probar el [módulo PWM](https://github.com/FPGAwars/icestudio-examples/tree/master/icestick/PWM) de _Jesús Arroyo_. Cargar en _icestudio_ y visualizar la señal por un osciloscopio.
+ 1. Primero probar el [módulo PWM](https://github.com/FPGAwars/icestudio-examples/tree/master/icestick/PWM) de _Democrito_. Cargar en _icestudio_ y visualizar la señal por un osciloscopio.
  2. Crear un módulo donde el PWM varie con valores digitales pasados al PWM.
  3. Pasar a este módulo PWM una serie de valores digitales que van desde 000000 a 1111111 y ver que el PWM en el osciloscopio es el correcto.
  4. Llevar esa señal PWM a un motor DC con un Mosfet de forma que veamos que podemos dar o bajar la velocidad del  motor.
