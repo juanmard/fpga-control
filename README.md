@@ -1,6 +1,6 @@
-# FPGA-control-PID
+# Proyecto FPGA-Control.
 
-Este proyecto trata de aprovechar las posibilidades de las FPGAs libres en el proceso de control de sistemas dinámicos.
+Este proyecto trata de aprovechar las posibilidades de las FPGA libres en el proceso de control de sistemas dinámicos.
 
 La idea surge en este [hilo](https://groups.google.com/d/msg/fpga-wars-explorando-el-lado-libre/D1TdQdAvjIg/9_1YKhvoAQAJ) de _FPGA Wars_ creado por *José Pico* y estáis todos invitados a participar.
 
